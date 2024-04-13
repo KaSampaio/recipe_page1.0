@@ -1,0 +1,20 @@
+/* Reset CSS */
+
+/* Remover margens e preenchimentos padrão */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+form, fieldset, legend, input, button, textarea, ul, ol, li,
+table, tr, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+/* Remover estilo de link padrão */
+a {
+    text-decoration: none;
+}
+
+/* Definir fonte base e tamanho */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
